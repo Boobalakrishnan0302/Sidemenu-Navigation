@@ -1,5 +1,7 @@
 {
   "name": "sideNav",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
